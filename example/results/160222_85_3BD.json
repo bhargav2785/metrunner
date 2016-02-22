@@ -1,0 +1,666 @@
+{
+    "data": {
+        "id": "160222_85_3BD",
+        "url": "http:\/\/www.Bp.blogspot.com",
+        "summary": "http:\/\/www.webpagetest.org\/results.php?test=160222_85_3BD",
+        "testUrl": "http:\/\/www.Bp.blogspot.com",
+        "location": "Dulles:Chrome:Chrome",
+        "from": "Dulles, VA - Chrome - <b>Chrome<\/b> - <b>Cable<\/b>",
+        "connectivity": "Cable",
+        "bwDown": 5000,
+        "bwUp": 1000,
+        "latency": 28,
+        "plr": "0",
+        "mobile": 0,
+        "completed": 1456107136,
+        "tester": "VM5-IE9-3-192.168.101.223",
+        "testerDNS": "192.168.101.1,192.168.0.1",
+        "runs": {
+            "1": {
+                "firstView": {
+                    "URL": "http:\/\/www.Bp.blogspot.com",
+                    "loadTime": 80,
+                    "TTFB": 0,
+                    "bytesOut": 0,
+                    "bytesOutDoc": 0,
+                    "bytesIn": 0,
+                    "bytesInDoc": 0,
+                    "connections": 0,
+                    "requests": {},
+                    "requestsFull": 0,
+                    "requestsDoc": 0,
+                    "responses_200": 0,
+                    "responses_404": 0,
+                    "responses_other": 0,
+                    "result": 12007,
+                    "render": 0,
+                    "fullyLoaded": 80,
+                    "cached": 0,
+                    "docTime": 0,
+                    "domTime": 0,
+                    "score_cache": -1,
+                    "score_cdn": -1,
+                    "score_gzip": -1,
+                    "score_cookies": -1,
+                    "score_keep-alive": -1,
+                    "score_minify": -1,
+                    "score_combine": 100,
+                    "score_compress": -1,
+                    "score_etags": -1,
+                    "gzip_total": 0,
+                    "gzip_savings": 0,
+                    "minify_total": 0,
+                    "minify_savings": 0,
+                    "image_total": 0,
+                    "image_savings": 0,
+                    "optimization_checked": 1,
+                    "aft": 0,
+                    "domElements": 65,
+                    "pageSpeedVersion": "1.9",
+                    "title": "",
+                    "titleTime": 0,
+                    "loadEventStart": 65,
+                    "loadEventEnd": 65,
+                    "domContentLoadedEventStart": 62,
+                    "domContentLoadedEventEnd": 63,
+                    "lastVisualChange": 0,
+                    "browser_name": "Google Chrome",
+                    "browser_version": "48.0.2564.116",
+                    "server_count": 0,
+                    "server_rtt": 0,
+                    "base_page_cdn": "",
+                    "adult_site": 0,
+                    "fixed_viewport": -1,
+                    "score_progressive_jpeg": -1,
+                    "firstPaint": 0,
+                    "docCPUms": 0,
+                    "fullyLoadedCPUms": 78.001,
+                    "docCPUpct": 0,
+                    "fullyLoadedCPUpct": 63,
+                    "isResponsive": -1,
+                    "browser_process_count": 8,
+                    "browser_main_memory_kb": 40488,
+                    "browser_other_private_memory_kb": 61944,
+                    "browser_working_set_kb": 102432,
+                    "date": 1456107129,
+                    "chromeUserTiming": {
+                        "0": {
+                            "name": "fetchStart",
+                            "time": 2
+                        },
+                        "1": {
+                            "name": "fetchStart",
+                            "time": 69
+                        },
+                        "2": {
+                            "name": "responseEnd",
+                            "time": 69
+                        },
+                        "3": {
+                            "name": "unloadEventStart",
+                            "time": 71
+                        },
+                        "4": {
+                            "name": "unloadEventEnd",
+                            "time": 71
+                        },
+                        "5": {
+                            "name": "domLoading",
+                            "time": 76
+                        },
+                        "6": {
+                            "name": "domInteractive",
+                            "time": 83
+                        },
+                        "7": {
+                            "name": "domContentLoadedEventStart",
+                            "time": 83
+                        },
+                        "8": {
+                            "name": "domContentLoadedEventEnd",
+                            "time": 83
+                        },
+                        "9": {
+                            "name": "domComplete",
+                            "time": 83
+                        },
+                        "10": {
+                            "name": "loadEventStart",
+                            "time": 83
+                        },
+                        "11": {
+                            "name": "loadEventEnd",
+                            "time": 83
+                        },
+                        "12": {
+                            "name": "firstLayout",
+                            "time": 83
+                        },
+                        "13": {
+                            "name": "firstPaint",
+                            "time": 120
+                        },
+                        "14": {
+                            "name": "fetchStart",
+                            "time": 753
+                        },
+                        "15": {
+                            "name": "unloadEventStart",
+                            "time": 756
+                        },
+                        "16": {
+                            "name": "unloadEventEnd",
+                            "time": 756
+                        },
+                        "17": {
+                            "name": "domLoading",
+                            "time": 761
+                        },
+                        "18": {
+                            "name": "responseEnd",
+                            "time": 756
+                        },
+                        "19": {
+                            "name": "domInteractive",
+                            "time": 813
+                        },
+                        "20": {
+                            "name": "domContentLoadedEventStart",
+                            "time": 813
+                        },
+                        "21": {
+                            "name": "domContentLoadedEventEnd",
+                            "time": 815
+                        },
+                        "22": {
+                            "name": "domComplete",
+                            "time": 816
+                        },
+                        "23": {
+                            "name": "loadEventStart",
+                            "time": 816
+                        },
+                        "24": {
+                            "name": "loadEventEnd",
+                            "time": 816
+                        },
+                        "25": {
+                            "name": "firstLayout",
+                            "time": 846
+                        },
+                        "26": {
+                            "name": "firstPaint",
+                            "time": 847
+                        },
+                        "27": {
+                            "name": "firstTextPaint",
+                            "time": 847
+                        },
+                        "28": {
+                            "name": "firstImagePaint",
+                            "time": 847
+                        },
+                        "29": {
+                            "name": "fetchStart",
+                            "time": 859
+                        }
+                    },
+                    "chromeUserTiming.fetchStart": 859,
+                    "chromeUserTiming.responseEnd": 756,
+                    "chromeUserTiming.unloadEventStart": 756,
+                    "chromeUserTiming.unloadEventEnd": 756,
+                    "chromeUserTiming.domLoading": 761,
+                    "chromeUserTiming.domInteractive": 813,
+                    "chromeUserTiming.domContentLoadedEventStart": 813,
+                    "chromeUserTiming.domContentLoadedEventEnd": 815,
+                    "chromeUserTiming.domComplete": 816,
+                    "chromeUserTiming.loadEventStart": 816,
+                    "chromeUserTiming.loadEventEnd": 816,
+                    "chromeUserTiming.firstLayout": 846,
+                    "chromeUserTiming.firstPaint": 847,
+                    "chromeUserTiming.firstTextPaint": 847,
+                    "chromeUserTiming.firstImagePaint": 847,
+                    "run": 1,
+                    "tester": "VM5-IE9-3-192.168.101.223",
+                    "pages": {
+                        "details": "http:\/\/www.webpagetest.org\/details.php?test=160222_85_3BD&run=1&cached=0",
+                        "checklist": "http:\/\/www.webpagetest.org\/performance_optimization.php?test=160222_85_3BD&run=1&cached=0",
+                        "breakdown": "http:\/\/www.webpagetest.org\/breakdown.php?test=160222_85_3BD&run=1&cached=0",
+                        "domains": "http:\/\/www.webpagetest.org\/domains.php?test=160222_85_3BD&run=1&cached=0",
+                        "screenShot": "http:\/\/www.webpagetest.org\/screen_shot.php?test=160222_85_3BD&run=1&cached=0"
+                    },
+                    "thumbnails": {
+                        "waterfall": "http:\/\/www.webpagetest.org\/result\/160222_85_3BD\/1_waterfall_thumb.png",
+                        "checklist": "http:\/\/www.webpagetest.org\/result\/160222_85_3BD\/1_optimization_thumb.png",
+                        "screenShot": "http:\/\/www.webpagetest.org\/result\/160222_85_3BD\/1_screen_thumb.png"
+                    },
+                    "images": {
+                        "waterfall": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/85\/3BD\/1_waterfall.png",
+                        "connectionView": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/85\/3BD\/1_connection.png",
+                        "checklist": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/85\/3BD\/1_optimization.png",
+                        "screenShot": "http:\/\/www.webpagetest.org\/getfile.php?test=160222_85_3BD&file=1_screen.jpg"
+                    },
+                    "rawData": {
+                        "headers": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/85\/3BD\/1_report.txt",
+                        "pageData": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/85\/3BD\/1_IEWPG.txt",
+                        "requestsData": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/85\/3BD\/1_IEWTR.txt",
+                        "utilization": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/85\/3BD\/1_progress.csv"
+                    },
+                    "domains": {},
+                    "breakdown": {
+                        "html": {
+                            "color": {
+                                "0": 130,
+                                "1": 181,
+                                "2": 252
+                            },
+                            "bytes": 0,
+                            "requests": 0
+                        },
+                        "js": {
+                            "color": {
+                                "0": 254,
+                                "1": 197,
+                                "2": 132
+                            },
+                            "bytes": 0,
+                            "requests": 0
+                        },
+                        "css": {
+                            "color": {
+                                "0": 178,
+                                "1": 234,
+                                "2": 148
+                            },
+                            "bytes": 0,
+                            "requests": 0
+                        },
+                        "image": {
+                            "color": {
+                                "0": 196,
+                                "1": 154,
+                                "2": 232
+                            },
+                            "bytes": 0,
+                            "requests": 0
+                        },
+                        "flash": {
+                            "color": {
+                                "0": 45,
+                                "1": 183,
+                                "2": 193
+                            },
+                            "bytes": 0,
+                            "requests": 0
+                        },
+                        "font": {
+                            "color": {
+                                "0": 255,
+                                "1": 82,
+                                "2": 62
+                            },
+                            "bytes": 0,
+                            "requests": 0
+                        },
+                        "other": {
+                            "color": {
+                                "0": 196,
+                                "1": 196,
+                                "2": 196
+                            },
+                            "bytes": 0,
+                            "requests": 0
+                        }
+                    },
+                    "consoleLog": {
+                        "0": {
+                            "column": 0,
+                            "level": "error",
+                            "line": 0,
+                            "networkRequestId": "3876.4",
+                            "source": "network",
+                            "text": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED",
+                            "timestamp": 1456107129.359,
+                            "type": "log",
+                            "url": "http:\/\/www.bp.blogspot.com\/"
+                        }
+                    },
+                    "status": {
+                        "0": {
+                            "time": "77",
+                            "message": "Navigation Error: net::ERR_NAME_NOT_RESOLVED"
+                        }
+                    }
+                }
+            }
+        },
+        "fvonly": true,
+        "successfulFVRuns": 0,
+        "average": {
+            "firstView": {}
+        },
+        "standardDeviation": {
+            "firstView": {}
+        },
+        "median": {
+            "firstView": {
+                "URL": "http:\/\/www.Bp.blogspot.com",
+                "loadTime": 80,
+                "TTFB": 0,
+                "bytesOut": 0,
+                "bytesOutDoc": 0,
+                "bytesIn": 0,
+                "bytesInDoc": 0,
+                "connections": 0,
+                "requests": {},
+                "requestsFull": 0,
+                "requestsDoc": 0,
+                "responses_200": 0,
+                "responses_404": 0,
+                "responses_other": 0,
+                "result": 12007,
+                "render": 0,
+                "fullyLoaded": 80,
+                "cached": 0,
+                "docTime": 0,
+                "domTime": 0,
+                "score_cache": -1,
+                "score_cdn": -1,
+                "score_gzip": -1,
+                "score_cookies": -1,
+                "score_keep-alive": -1,
+                "score_minify": -1,
+                "score_combine": 100,
+                "score_compress": -1,
+                "score_etags": -1,
+                "gzip_total": 0,
+                "gzip_savings": 0,
+                "minify_total": 0,
+                "minify_savings": 0,
+                "image_total": 0,
+                "image_savings": 0,
+                "optimization_checked": 1,
+                "aft": 0,
+                "domElements": 65,
+                "pageSpeedVersion": "1.9",
+                "title": "",
+                "titleTime": 0,
+                "loadEventStart": 65,
+                "loadEventEnd": 65,
+                "domContentLoadedEventStart": 62,
+                "domContentLoadedEventEnd": 63,
+                "lastVisualChange": 0,
+                "browser_name": "Google Chrome",
+                "browser_version": "48.0.2564.116",
+                "server_count": 0,
+                "server_rtt": 0,
+                "base_page_cdn": "",
+                "adult_site": 0,
+                "fixed_viewport": -1,
+                "score_progressive_jpeg": -1,
+                "firstPaint": 0,
+                "docCPUms": 0,
+                "fullyLoadedCPUms": 78.001,
+                "docCPUpct": 0,
+                "fullyLoadedCPUpct": 63,
+                "isResponsive": -1,
+                "browser_process_count": 8,
+                "browser_main_memory_kb": 40488,
+                "browser_other_private_memory_kb": 61944,
+                "browser_working_set_kb": 102432,
+                "date": 1456107129,
+                "chromeUserTiming": {
+                    "0": {
+                        "name": "fetchStart",
+                        "time": 2
+                    },
+                    "1": {
+                        "name": "fetchStart",
+                        "time": 69
+                    },
+                    "2": {
+                        "name": "responseEnd",
+                        "time": 69
+                    },
+                    "3": {
+                        "name": "unloadEventStart",
+                        "time": 71
+                    },
+                    "4": {
+                        "name": "unloadEventEnd",
+                        "time": 71
+                    },
+                    "5": {
+                        "name": "domLoading",
+                        "time": 76
+                    },
+                    "6": {
+                        "name": "domInteractive",
+                        "time": 83
+                    },
+                    "7": {
+                        "name": "domContentLoadedEventStart",
+                        "time": 83
+                    },
+                    "8": {
+                        "name": "domContentLoadedEventEnd",
+                        "time": 83
+                    },
+                    "9": {
+                        "name": "domComplete",
+                        "time": 83
+                    },
+                    "10": {
+                        "name": "loadEventStart",
+                        "time": 83
+                    },
+                    "11": {
+                        "name": "loadEventEnd",
+                        "time": 83
+                    },
+                    "12": {
+                        "name": "firstLayout",
+                        "time": 83
+                    },
+                    "13": {
+                        "name": "firstPaint",
+                        "time": 120
+                    },
+                    "14": {
+                        "name": "fetchStart",
+                        "time": 753
+                    },
+                    "15": {
+                        "name": "unloadEventStart",
+                        "time": 756
+                    },
+                    "16": {
+                        "name": "unloadEventEnd",
+                        "time": 756
+                    },
+                    "17": {
+                        "name": "domLoading",
+                        "time": 761
+                    },
+                    "18": {
+                        "name": "responseEnd",
+                        "time": 756
+                    },
+                    "19": {
+                        "name": "domInteractive",
+                        "time": 813
+                    },
+                    "20": {
+                        "name": "domContentLoadedEventStart",
+                        "time": 813
+                    },
+                    "21": {
+                        "name": "domContentLoadedEventEnd",
+                        "time": 815
+                    },
+                    "22": {
+                        "name": "domComplete",
+                        "time": 816
+                    },
+                    "23": {
+                        "name": "loadEventStart",
+                        "time": 816
+                    },
+                    "24": {
+                        "name": "loadEventEnd",
+                        "time": 816
+                    },
+                    "25": {
+                        "name": "firstLayout",
+                        "time": 846
+                    },
+                    "26": {
+                        "name": "firstPaint",
+                        "time": 847
+                    },
+                    "27": {
+                        "name": "firstTextPaint",
+                        "time": 847
+                    },
+                    "28": {
+                        "name": "firstImagePaint",
+                        "time": 847
+                    },
+                    "29": {
+                        "name": "fetchStart",
+                        "time": 859
+                    }
+                },
+                "chromeUserTiming.fetchStart": 859,
+                "chromeUserTiming.responseEnd": 756,
+                "chromeUserTiming.unloadEventStart": 756,
+                "chromeUserTiming.unloadEventEnd": 756,
+                "chromeUserTiming.domLoading": 761,
+                "chromeUserTiming.domInteractive": 813,
+                "chromeUserTiming.domContentLoadedEventStart": 813,
+                "chromeUserTiming.domContentLoadedEventEnd": 815,
+                "chromeUserTiming.domComplete": 816,
+                "chromeUserTiming.loadEventStart": 816,
+                "chromeUserTiming.loadEventEnd": 816,
+                "chromeUserTiming.firstLayout": 846,
+                "chromeUserTiming.firstPaint": 847,
+                "chromeUserTiming.firstTextPaint": 847,
+                "chromeUserTiming.firstImagePaint": 847,
+                "run": 1,
+                "tester": "VM5-IE9-3-192.168.101.223",
+                "pages": {
+                    "details": "http:\/\/www.webpagetest.org\/details.php?test=160222_85_3BD&run=1&cached=0",
+                    "checklist": "http:\/\/www.webpagetest.org\/performance_optimization.php?test=160222_85_3BD&run=1&cached=0",
+                    "breakdown": "http:\/\/www.webpagetest.org\/breakdown.php?test=160222_85_3BD&run=1&cached=0",
+                    "domains": "http:\/\/www.webpagetest.org\/domains.php?test=160222_85_3BD&run=1&cached=0",
+                    "screenShot": "http:\/\/www.webpagetest.org\/screen_shot.php?test=160222_85_3BD&run=1&cached=0"
+                },
+                "thumbnails": {
+                    "waterfall": "http:\/\/www.webpagetest.org\/result\/160222_85_3BD\/1_waterfall_thumb.png",
+                    "checklist": "http:\/\/www.webpagetest.org\/result\/160222_85_3BD\/1_optimization_thumb.png",
+                    "screenShot": "http:\/\/www.webpagetest.org\/result\/160222_85_3BD\/1_screen_thumb.png"
+                },
+                "images": {
+                    "waterfall": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/85\/3BD\/1_waterfall.png",
+                    "connectionView": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/85\/3BD\/1_connection.png",
+                    "checklist": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/85\/3BD\/1_optimization.png",
+                    "screenShot": "http:\/\/www.webpagetest.org\/getfile.php?test=160222_85_3BD&file=1_screen.jpg"
+                },
+                "rawData": {
+                    "headers": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/85\/3BD\/1_report.txt",
+                    "pageData": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/85\/3BD\/1_IEWPG.txt",
+                    "requestsData": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/85\/3BD\/1_IEWTR.txt",
+                    "utilization": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/85\/3BD\/1_progress.csv"
+                },
+                "domains": {},
+                "breakdown": {
+                    "html": {
+                        "color": {
+                            "0": 130,
+                            "1": 181,
+                            "2": 252
+                        },
+                        "bytes": 0,
+                        "requests": 0
+                    },
+                    "js": {
+                        "color": {
+                            "0": 254,
+                            "1": 197,
+                            "2": 132
+                        },
+                        "bytes": 0,
+                        "requests": 0
+                    },
+                    "css": {
+                        "color": {
+                            "0": 178,
+                            "1": 234,
+                            "2": 148
+                        },
+                        "bytes": 0,
+                        "requests": 0
+                    },
+                    "image": {
+                        "color": {
+                            "0": 196,
+                            "1": 154,
+                            "2": 232
+                        },
+                        "bytes": 0,
+                        "requests": 0
+                    },
+                    "flash": {
+                        "color": {
+                            "0": 45,
+                            "1": 183,
+                            "2": 193
+                        },
+                        "bytes": 0,
+                        "requests": 0
+                    },
+                    "font": {
+                        "color": {
+                            "0": 255,
+                            "1": 82,
+                            "2": 62
+                        },
+                        "bytes": 0,
+                        "requests": 0
+                    },
+                    "other": {
+                        "color": {
+                            "0": 196,
+                            "1": 196,
+                            "2": 196
+                        },
+                        "bytes": 0,
+                        "requests": 0
+                    }
+                },
+                "consoleLog": {
+                    "0": {
+                        "column": 0,
+                        "level": "error",
+                        "line": 0,
+                        "networkRequestId": "3876.4",
+                        "source": "network",
+                        "text": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED",
+                        "timestamp": 1456107129.359,
+                        "type": "log",
+                        "url": "http:\/\/www.bp.blogspot.com\/"
+                    }
+                },
+                "status": {
+                    "0": {
+                        "time": "77",
+                        "message": "Navigation Error: net::ERR_NAME_NOT_RESOLVED"
+                    }
+                }
+            }
+        },
+        "rank": 184
+    },
+    "statusCode": 200,
+    "statusText": "Test Complete"
+}

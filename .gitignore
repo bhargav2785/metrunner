@@ -1,2 +1,8 @@
-/cache/
-/config/development/
+.idea/
+./requests/
+./results/
+./metrics/
+./prices/
+./sites.txt
+./metrics.csv
+./prices.csv

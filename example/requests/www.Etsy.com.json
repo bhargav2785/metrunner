@@ -1,0 +1,13 @@
+{
+  "statusCode": 200,
+  "statusText": "Ok",
+  "data": {
+    "testId": "160222_AQ_39Q",
+    "ownerKey": "7ce0670b44926548e5ec7d79341a0a16c3f4bbf2",
+    "jsonUrl": "http://www.webpagetest.org/jsonResult.php?test=160222_AQ_39Q",
+    "xmlUrl": "http://www.webpagetest.org/xmlResult/160222_AQ_39Q/",
+    "userUrl": "http://www.webpagetest.org/result/160222_AQ_39Q/",
+    "summaryCSV": "http://www.webpagetest.org/result/160222_AQ_39Q/page_data.csv",
+    "detailCSV": "http://www.webpagetest.org/result/160222_AQ_39Q/requests.csv"
+  }
+}

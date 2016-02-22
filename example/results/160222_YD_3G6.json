@@ -1,0 +1,684 @@
+{
+    "data": {
+        "id": "160222_YD_3G6",
+        "url": "http:\/\/www.Loading-delivery2.com",
+        "summary": "http:\/\/www.webpagetest.org\/results.php?test=160222_YD_3G6",
+        "testUrl": "http:\/\/www.Loading-delivery2.com",
+        "location": "Dulles:Chrome:Chrome",
+        "from": "Dulles, VA - Chrome - <b>Chrome<\/b> - <b>Cable<\/b>",
+        "connectivity": "Cable",
+        "bwDown": 5000,
+        "bwUp": 1000,
+        "latency": 28,
+        "plr": "0",
+        "mobile": 0,
+        "completed": 1456107241,
+        "tester": "VM6-IE11-2-192.168.101.162",
+        "testerDNS": "192.168.101.1,192.168.0.1",
+        "runs": {
+            "1": {
+                "firstView": {
+                    "URL": "http:\/\/www.Loading-delivery2.com",
+                    "loadTime": 504,
+                    "TTFB": 300,
+                    "bytesOut": 383,
+                    "bytesOutDoc": 383,
+                    "bytesIn": 141,
+                    "bytesInDoc": 141,
+                    "connections": 1,
+                    "requests": {
+                        "0": {
+                            "ip_addr": "141.0.172.75",
+                            "method": "GET",
+                            "host": "www.loading-delivery2.com",
+                            "url": "\/",
+                            "responseCode": "404",
+                            "load_ms": "125",
+                            "ttfb_ms": "125",
+                            "load_start": "175",
+                            "bytesOut": "383",
+                            "bytesIn": "141",
+                            "objectSize": "0",
+                            "contentType": "text\/html",
+                            "type": "3",
+                            "socket": "41",
+                            "score_cache": "0",
+                            "score_cdn": "-1",
+                            "score_gzip": "-1",
+                            "score_cookies": "-1",
+                            "score_keep-alive": "-1",
+                            "score_minify": "-1",
+                            "score_combine": "-1",
+                            "score_compress": "-1",
+                            "score_etags": "-1",
+                            "is_secure": "0",
+                            "dns_ms": "-1",
+                            "connect_ms": 115,
+                            "ssl_ms": "-1",
+                            "gzip_total": "0",
+                            "gzip_save": "0",
+                            "minify_total": "0",
+                            "minify_save": "0",
+                            "image_total": "0",
+                            "image_save": "0",
+                            "cache_time": "0",
+                            "dns_start": "0",
+                            "dns_end": "59",
+                            "connect_start": "59",
+                            "connect_end": "174",
+                            "ssl_start": "0",
+                            "ssl_end": "0",
+                            "server_count": "4",
+                            "server_rtt": "115",
+                            "client_port": "61080",
+                            "jpeg_scan_count": "0",
+                            "request_id": "1",
+                            "full_url": "http:\/\/www.loading-delivery2.com\/",
+                            "score_progressive_jpeg": -1,
+                            "load_end": 300,
+                            "ttfb_start": "175",
+                            "ttfb_end": 300,
+                            "download_start": 300,
+                            "download_end": 300,
+                            "download_ms": 0,
+                            "all_start": "59",
+                            "all_end": 300,
+                            "all_ms": 240,
+                            "headers": {
+                                "request": {
+                                    "0": "GET \/ HTTP\/1.1",
+                                    "1": "Host: www.loading-delivery2.com",
+                                    "2": "Connection: keep-alive",
+                                    "3": "Accept: text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/webp,*\/*;q=0.8",
+                                    "4": "Upgrade-Insecure-Requests: 1",
+                                    "5": "User-Agent: Mozilla\/5.0 (Windows NT 6.1; WOW64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/48.0.2564.116 Safari\/537.36",
+                                    "6": "Accept-Encoding: gzip, deflate, sdch",
+                                    "7": "Accept-Language: en-US,en;q=0.8"
+                                },
+                                "response": {
+                                    "0": "HTTP\/1.1 404 Not Found",
+                                    "1": "Server: nginx",
+                                    "2": "Date: Mon, 22 Feb 2016 02:13:59 GMT",
+                                    "3": "Content-Type: text\/html",
+                                    "4": "Connection: close",
+                                    "5": "Content-Length: 0"
+                                }
+                            },
+                            "index": 0,
+                            "number": 1
+                        }
+                    },
+                    "requestsFull": 1,
+                    "requestsDoc": 1,
+                    "responses_200": 0,
+                    "responses_404": 1,
+                    "responses_other": 0,
+                    "result": 404,
+                    "render": 0,
+                    "fullyLoaded": 504,
+                    "cached": 0,
+                    "docTime": 504,
+                    "domTime": 0,
+                    "score_cache": 0,
+                    "score_cdn": -1,
+                    "score_gzip": -1,
+                    "score_cookies": -1,
+                    "score_keep-alive": -1,
+                    "score_minify": -1,
+                    "score_combine": 100,
+                    "score_compress": -1,
+                    "score_etags": -1,
+                    "gzip_total": 0,
+                    "gzip_savings": 0,
+                    "minify_total": 0,
+                    "minify_savings": 0,
+                    "image_total": 0,
+                    "image_savings": 0,
+                    "optimization_checked": 1,
+                    "aft": 0,
+                    "domElements": 3,
+                    "pageSpeedVersion": "1.9",
+                    "title": "www.loading-delivery2.com",
+                    "titleTime": 476,
+                    "loadEventStart": 368,
+                    "loadEventEnd": 397,
+                    "domContentLoadedEventStart": 367,
+                    "domContentLoadedEventEnd": 367,
+                    "lastVisualChange": 0,
+                    "browser_name": "Google Chrome",
+                    "browser_version": "48.0.2564.116",
+                    "server_count": 4,
+                    "server_rtt": 115,
+                    "base_page_cdn": "",
+                    "adult_site": 0,
+                    "fixed_viewport": 0,
+                    "score_progressive_jpeg": -1,
+                    "firstPaint": 0,
+                    "docCPUms": 296.402,
+                    "fullyLoadedCPUms": 312.002,
+                    "docCPUpct": 54,
+                    "fullyLoadedCPUpct": 56,
+                    "isResponsive": -1,
+                    "browser_process_count": 8,
+                    "browser_main_memory_kb": 41092,
+                    "browser_other_private_memory_kb": 64344,
+                    "browser_working_set_kb": 105436,
+                    "date": 1456107250,
+                    "chromeUserTiming": {
+                        "0": {
+                            "name": "fetchStart",
+                            "time": 7
+                        },
+                        "1": {
+                            "name": "responseEnd",
+                            "time": 307
+                        },
+                        "2": {
+                            "name": "unloadEventStart",
+                            "time": 311
+                        },
+                        "3": {
+                            "name": "unloadEventEnd",
+                            "time": 311
+                        },
+                        "4": {
+                            "name": "domLoading",
+                            "time": 317
+                        },
+                        "5": {
+                            "name": "domInteractive",
+                            "time": 366
+                        },
+                        "6": {
+                            "name": "domContentLoadedEventStart",
+                            "time": 366
+                        },
+                        "7": {
+                            "name": "domContentLoadedEventEnd",
+                            "time": 366
+                        },
+                        "8": {
+                            "name": "domComplete",
+                            "time": 367
+                        },
+                        "9": {
+                            "name": "loadEventStart",
+                            "time": 367
+                        },
+                        "10": {
+                            "name": "loadEventEnd",
+                            "time": 396
+                        },
+                        "11": {
+                            "name": "firstLayout",
+                            "time": 399
+                        },
+                        "12": {
+                            "name": "firstPaint",
+                            "time": 563
+                        }
+                    },
+                    "chromeUserTiming.fetchStart": 7,
+                    "chromeUserTiming.responseEnd": 307,
+                    "chromeUserTiming.unloadEventStart": 311,
+                    "chromeUserTiming.unloadEventEnd": 311,
+                    "chromeUserTiming.domLoading": 317,
+                    "chromeUserTiming.domInteractive": 366,
+                    "chromeUserTiming.domContentLoadedEventStart": 366,
+                    "chromeUserTiming.domContentLoadedEventEnd": 366,
+                    "chromeUserTiming.domComplete": 367,
+                    "chromeUserTiming.loadEventStart": 367,
+                    "chromeUserTiming.loadEventEnd": 396,
+                    "chromeUserTiming.firstLayout": 399,
+                    "chromeUserTiming.firstPaint": 563,
+                    "run": 1,
+                    "effectiveBps": 691,
+                    "effectiveBpsDoc": 691,
+                    "tester": "VM6-IE11-2-192.168.101.162",
+                    "pages": {
+                        "details": "http:\/\/www.webpagetest.org\/details.php?test=160222_YD_3G6&run=1&cached=0",
+                        "checklist": "http:\/\/www.webpagetest.org\/performance_optimization.php?test=160222_YD_3G6&run=1&cached=0",
+                        "breakdown": "http:\/\/www.webpagetest.org\/breakdown.php?test=160222_YD_3G6&run=1&cached=0",
+                        "domains": "http:\/\/www.webpagetest.org\/domains.php?test=160222_YD_3G6&run=1&cached=0",
+                        "screenShot": "http:\/\/www.webpagetest.org\/screen_shot.php?test=160222_YD_3G6&run=1&cached=0"
+                    },
+                    "thumbnails": {
+                        "waterfall": "http:\/\/www.webpagetest.org\/result\/160222_YD_3G6\/1_waterfall_thumb.png",
+                        "checklist": "http:\/\/www.webpagetest.org\/result\/160222_YD_3G6\/1_optimization_thumb.png",
+                        "screenShot": "http:\/\/www.webpagetest.org\/result\/160222_YD_3G6\/1_screen_thumb.png"
+                    },
+                    "images": {
+                        "waterfall": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/YD\/3G6\/1_waterfall.png",
+                        "connectionView": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/YD\/3G6\/1_connection.png",
+                        "checklist": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/YD\/3G6\/1_optimization.png",
+                        "screenShot": "http:\/\/www.webpagetest.org\/getfile.php?test=160222_YD_3G6&file=1_screen.jpg"
+                    },
+                    "rawData": {
+                        "headers": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/YD\/3G6\/1_report.txt",
+                        "pageData": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/YD\/3G6\/1_IEWPG.txt",
+                        "requestsData": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/YD\/3G6\/1_IEWTR.txt",
+                        "utilization": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/YD\/3G6\/1_progress.csv"
+                    },
+                    "domains": {
+                        "www.loading-delivery2.com": {
+                            "bytes": 141,
+                            "requests": 1,
+                            "connections": 1
+                        }
+                    },
+                    "breakdown": {
+                        "html": {
+                            "color": {
+                                "0": 130,
+                                "1": 181,
+                                "2": 252
+                            },
+                            "bytes": 141,
+                            "requests": 1
+                        },
+                        "js": {
+                            "color": {
+                                "0": 254,
+                                "1": 197,
+                                "2": 132
+                            },
+                            "bytes": 0,
+                            "requests": 0
+                        },
+                        "css": {
+                            "color": {
+                                "0": 178,
+                                "1": 234,
+                                "2": 148
+                            },
+                            "bytes": 0,
+                            "requests": 0
+                        },
+                        "image": {
+                            "color": {
+                                "0": 196,
+                                "1": 154,
+                                "2": 232
+                            },
+                            "bytes": 0,
+                            "requests": 0
+                        },
+                        "flash": {
+                            "color": {
+                                "0": 45,
+                                "1": 183,
+                                "2": 193
+                            },
+                            "bytes": 0,
+                            "requests": 0
+                        },
+                        "font": {
+                            "color": {
+                                "0": 255,
+                                "1": 82,
+                                "2": 62
+                            },
+                            "bytes": 0,
+                            "requests": 0
+                        },
+                        "other": {
+                            "color": {
+                                "0": 196,
+                                "1": 196,
+                                "2": 196
+                            },
+                            "bytes": 0,
+                            "requests": 0
+                        }
+                    },
+                    "consoleLog": {
+                        "0": {
+                            "column": 0,
+                            "level": "error",
+                            "line": 0,
+                            "networkRequestId": "1968.5",
+                            "source": "network",
+                            "text": "Failed to load resource: the server responded with a status of 404 (Not Found)",
+                            "timestamp": 1456107250.9501,
+                            "type": "log",
+                            "url": "http:\/\/www.loading-delivery2.com\/"
+                        }
+                    },
+                    "status": {
+                        "0": {
+                            "time": "491",
+                            "message": "Navigation Error:"
+                        }
+                    }
+                }
+            }
+        },
+        "fvonly": true,
+        "successfulFVRuns": 0,
+        "average": {
+            "firstView": {}
+        },
+        "standardDeviation": {
+            "firstView": {}
+        },
+        "median": {
+            "firstView": {
+                "URL": "http:\/\/www.Loading-delivery2.com",
+                "loadTime": 504,
+                "TTFB": 300,
+                "bytesOut": 383,
+                "bytesOutDoc": 383,
+                "bytesIn": 141,
+                "bytesInDoc": 141,
+                "connections": 1,
+                "requests": {
+                    "0": {
+                        "ip_addr": "141.0.172.75",
+                        "method": "GET",
+                        "host": "www.loading-delivery2.com",
+                        "url": "\/",
+                        "responseCode": "404",
+                        "load_ms": "125",
+                        "ttfb_ms": "125",
+                        "load_start": "175",
+                        "bytesOut": "383",
+                        "bytesIn": "141",
+                        "objectSize": "0",
+                        "contentType": "text\/html",
+                        "type": "3",
+                        "socket": "41",
+                        "score_cache": "0",
+                        "score_cdn": "-1",
+                        "score_gzip": "-1",
+                        "score_cookies": "-1",
+                        "score_keep-alive": "-1",
+                        "score_minify": "-1",
+                        "score_combine": "-1",
+                        "score_compress": "-1",
+                        "score_etags": "-1",
+                        "is_secure": "0",
+                        "dns_ms": "-1",
+                        "connect_ms": 115,
+                        "ssl_ms": "-1",
+                        "gzip_total": "0",
+                        "gzip_save": "0",
+                        "minify_total": "0",
+                        "minify_save": "0",
+                        "image_total": "0",
+                        "image_save": "0",
+                        "cache_time": "0",
+                        "dns_start": "0",
+                        "dns_end": "59",
+                        "connect_start": "59",
+                        "connect_end": "174",
+                        "ssl_start": "0",
+                        "ssl_end": "0",
+                        "server_count": "4",
+                        "server_rtt": "115",
+                        "client_port": "61080",
+                        "jpeg_scan_count": "0",
+                        "request_id": "1",
+                        "full_url": "http:\/\/www.loading-delivery2.com\/",
+                        "score_progressive_jpeg": -1,
+                        "load_end": 300,
+                        "ttfb_start": "175",
+                        "ttfb_end": 300,
+                        "download_start": 300,
+                        "download_end": 300,
+                        "download_ms": 0,
+                        "all_start": "59",
+                        "all_end": 300,
+                        "all_ms": 240,
+                        "index": 0,
+                        "number": 1
+                    }
+                },
+                "requestsFull": 1,
+                "requestsDoc": 1,
+                "responses_200": 0,
+                "responses_404": 1,
+                "responses_other": 0,
+                "result": 404,
+                "render": 0,
+                "fullyLoaded": 504,
+                "cached": 0,
+                "docTime": 504,
+                "domTime": 0,
+                "score_cache": 0,
+                "score_cdn": -1,
+                "score_gzip": -1,
+                "score_cookies": -1,
+                "score_keep-alive": -1,
+                "score_minify": -1,
+                "score_combine": 100,
+                "score_compress": -1,
+                "score_etags": -1,
+                "gzip_total": 0,
+                "gzip_savings": 0,
+                "minify_total": 0,
+                "minify_savings": 0,
+                "image_total": 0,
+                "image_savings": 0,
+                "optimization_checked": 1,
+                "aft": 0,
+                "domElements": 3,
+                "pageSpeedVersion": "1.9",
+                "title": "www.loading-delivery2.com",
+                "titleTime": 476,
+                "loadEventStart": 368,
+                "loadEventEnd": 397,
+                "domContentLoadedEventStart": 367,
+                "domContentLoadedEventEnd": 367,
+                "lastVisualChange": 0,
+                "browser_name": "Google Chrome",
+                "browser_version": "48.0.2564.116",
+                "server_count": 4,
+                "server_rtt": 115,
+                "base_page_cdn": "",
+                "adult_site": 0,
+                "fixed_viewport": 0,
+                "score_progressive_jpeg": -1,
+                "firstPaint": 0,
+                "docCPUms": 296.402,
+                "fullyLoadedCPUms": 312.002,
+                "docCPUpct": 54,
+                "fullyLoadedCPUpct": 56,
+                "isResponsive": -1,
+                "browser_process_count": 8,
+                "browser_main_memory_kb": 41092,
+                "browser_other_private_memory_kb": 64344,
+                "browser_working_set_kb": 105436,
+                "date": 1456107250,
+                "chromeUserTiming": {
+                    "0": {
+                        "name": "fetchStart",
+                        "time": 7
+                    },
+                    "1": {
+                        "name": "responseEnd",
+                        "time": 307
+                    },
+                    "2": {
+                        "name": "unloadEventStart",
+                        "time": 311
+                    },
+                    "3": {
+                        "name": "unloadEventEnd",
+                        "time": 311
+                    },
+                    "4": {
+                        "name": "domLoading",
+                        "time": 317
+                    },
+                    "5": {
+                        "name": "domInteractive",
+                        "time": 366
+                    },
+                    "6": {
+                        "name": "domContentLoadedEventStart",
+                        "time": 366
+                    },
+                    "7": {
+                        "name": "domContentLoadedEventEnd",
+                        "time": 366
+                    },
+                    "8": {
+                        "name": "domComplete",
+                        "time": 367
+                    },
+                    "9": {
+                        "name": "loadEventStart",
+                        "time": 367
+                    },
+                    "10": {
+                        "name": "loadEventEnd",
+                        "time": 396
+                    },
+                    "11": {
+                        "name": "firstLayout",
+                        "time": 399
+                    },
+                    "12": {
+                        "name": "firstPaint",
+                        "time": 563
+                    }
+                },
+                "chromeUserTiming.fetchStart": 7,
+                "chromeUserTiming.responseEnd": 307,
+                "chromeUserTiming.unloadEventStart": 311,
+                "chromeUserTiming.unloadEventEnd": 311,
+                "chromeUserTiming.domLoading": 317,
+                "chromeUserTiming.domInteractive": 366,
+                "chromeUserTiming.domContentLoadedEventStart": 366,
+                "chromeUserTiming.domContentLoadedEventEnd": 366,
+                "chromeUserTiming.domComplete": 367,
+                "chromeUserTiming.loadEventStart": 367,
+                "chromeUserTiming.loadEventEnd": 396,
+                "chromeUserTiming.firstLayout": 399,
+                "chromeUserTiming.firstPaint": 563,
+                "run": 1,
+                "effectiveBps": 691,
+                "effectiveBpsDoc": 691,
+                "tester": "VM6-IE11-2-192.168.101.162",
+                "pages": {
+                    "details": "http:\/\/www.webpagetest.org\/details.php?test=160222_YD_3G6&run=1&cached=0",
+                    "checklist": "http:\/\/www.webpagetest.org\/performance_optimization.php?test=160222_YD_3G6&run=1&cached=0",
+                    "breakdown": "http:\/\/www.webpagetest.org\/breakdown.php?test=160222_YD_3G6&run=1&cached=0",
+                    "domains": "http:\/\/www.webpagetest.org\/domains.php?test=160222_YD_3G6&run=1&cached=0",
+                    "screenShot": "http:\/\/www.webpagetest.org\/screen_shot.php?test=160222_YD_3G6&run=1&cached=0"
+                },
+                "thumbnails": {
+                    "waterfall": "http:\/\/www.webpagetest.org\/result\/160222_YD_3G6\/1_waterfall_thumb.png",
+                    "checklist": "http:\/\/www.webpagetest.org\/result\/160222_YD_3G6\/1_optimization_thumb.png",
+                    "screenShot": "http:\/\/www.webpagetest.org\/result\/160222_YD_3G6\/1_screen_thumb.png"
+                },
+                "images": {
+                    "waterfall": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/YD\/3G6\/1_waterfall.png",
+                    "connectionView": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/YD\/3G6\/1_connection.png",
+                    "checklist": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/YD\/3G6\/1_optimization.png",
+                    "screenShot": "http:\/\/www.webpagetest.org\/getfile.php?test=160222_YD_3G6&file=1_screen.jpg"
+                },
+                "rawData": {
+                    "headers": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/YD\/3G6\/1_report.txt",
+                    "pageData": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/YD\/3G6\/1_IEWPG.txt",
+                    "requestsData": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/YD\/3G6\/1_IEWTR.txt",
+                    "utilization": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/YD\/3G6\/1_progress.csv"
+                },
+                "domains": {
+                    "www.loading-delivery2.com": {
+                        "bytes": 141,
+                        "requests": 1,
+                        "connections": 1
+                    }
+                },
+                "breakdown": {
+                    "html": {
+                        "color": {
+                            "0": 130,
+                            "1": 181,
+                            "2": 252
+                        },
+                        "bytes": 141,
+                        "requests": 1
+                    },
+                    "js": {
+                        "color": {
+                            "0": 254,
+                            "1": 197,
+                            "2": 132
+                        },
+                        "bytes": 0,
+                        "requests": 0
+                    },
+                    "css": {
+                        "color": {
+                            "0": 178,
+                            "1": 234,
+                            "2": 148
+                        },
+                        "bytes": 0,
+                        "requests": 0
+                    },
+                    "image": {
+                        "color": {
+                            "0": 196,
+                            "1": 154,
+                            "2": 232
+                        },
+                        "bytes": 0,
+                        "requests": 0
+                    },
+                    "flash": {
+                        "color": {
+                            "0": 45,
+                            "1": 183,
+                            "2": 193
+                        },
+                        "bytes": 0,
+                        "requests": 0
+                    },
+                    "font": {
+                        "color": {
+                            "0": 255,
+                            "1": 82,
+                            "2": 62
+                        },
+                        "bytes": 0,
+                        "requests": 0
+                    },
+                    "other": {
+                        "color": {
+                            "0": 196,
+                            "1": 196,
+                            "2": 196
+                        },
+                        "bytes": 0,
+                        "requests": 0
+                    }
+                },
+                "consoleLog": {
+                    "0": {
+                        "column": 0,
+                        "level": "error",
+                        "line": 0,
+                        "networkRequestId": "1968.5",
+                        "source": "network",
+                        "text": "Failed to load resource: the server responded with a status of 404 (Not Found)",
+                        "timestamp": 1456107250.9501,
+                        "type": "log",
+                        "url": "http:\/\/www.loading-delivery2.com\/"
+                    }
+                },
+                "status": {
+                    "0": {
+                        "time": "491",
+                        "message": "Navigation Error:"
+                    }
+                }
+            }
+        },
+        "rank": 320
+    },
+    "statusCode": 200,
+    "statusText": "Test Complete"
+}

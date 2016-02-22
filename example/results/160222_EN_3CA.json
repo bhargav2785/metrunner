@@ -1,0 +1,873 @@
+{
+    "data": {
+        "id": "160222_EN_3CA",
+        "url": "http:\/\/www.Secureserver.net",
+        "summary": "http:\/\/www.webpagetest.org\/results.php?test=160222_EN_3CA",
+        "testUrl": "http:\/\/www.Secureserver.net",
+        "location": "Dulles:Chrome:Chrome",
+        "from": "Dulles, VA - Chrome - <b>Chrome<\/b> - <b>Cable<\/b>",
+        "connectivity": "Cable",
+        "bwDown": 5000,
+        "bwUp": 1000,
+        "latency": 28,
+        "plr": "0",
+        "mobile": 0,
+        "completed": 1456107158,
+        "tester": "VM3-IE9-1-192.168.101.211",
+        "testerDNS": "192.168.101.1,192.168.0.1",
+        "runs": {
+            "1": {
+                "firstView": {
+                    "URL": "http:\/\/www.Secureserver.net",
+                    "loadTime": 397,
+                    "TTFB": 397,
+                    "bytesOut": 757,
+                    "bytesOutDoc": 757,
+                    "bytesIn": 2164,
+                    "bytesInDoc": 2164,
+                    "connections": 1,
+                    "requests": {
+                        "0": {
+                            "ip_addr": "208.109.4.222",
+                            "method": "GET",
+                            "host": "www.secureserver.net",
+                            "url": "\/",
+                            "responseCode": "302",
+                            "load_ms": "106",
+                            "ttfb_ms": "106",
+                            "load_start": "162",
+                            "bytesOut": "371",
+                            "bytesIn": "729",
+                            "objectSize": "160",
+                            "cacheControl": "private",
+                            "type": "3",
+                            "socket": "40",
+                            "score_cache": "0",
+                            "score_cdn": "-1",
+                            "score_gzip": "-1",
+                            "score_cookies": "-1",
+                            "score_keep-alive": "-1",
+                            "score_minify": "-1",
+                            "score_combine": "-1",
+                            "score_compress": "-1",
+                            "score_etags": "-1",
+                            "is_secure": "0",
+                            "dns_ms": "-1",
+                            "connect_ms": 94,
+                            "ssl_ms": "-1",
+                            "gzip_total": "0",
+                            "gzip_save": "0",
+                            "minify_total": "0",
+                            "minify_save": "0",
+                            "image_total": "0",
+                            "image_save": "0",
+                            "cache_time": "0",
+                            "dns_start": "0",
+                            "dns_end": "68",
+                            "connect_start": "68",
+                            "connect_end": "162",
+                            "ssl_start": "0",
+                            "ssl_end": "0",
+                            "server_count": "1",
+                            "server_rtt": "93",
+                            "client_port": "50437",
+                            "jpeg_scan_count": "0",
+                            "priority": "VeryHigh",
+                            "request_id": "1",
+                            "full_url": "http:\/\/www.secureserver.net\/",
+                            "score_progressive_jpeg": -1,
+                            "load_end": 268,
+                            "ttfb_start": "162",
+                            "ttfb_end": 268,
+                            "download_start": 268,
+                            "download_end": 268,
+                            "download_ms": 0,
+                            "all_start": "68",
+                            "all_end": 268,
+                            "all_ms": 200,
+                            "headers": {
+                                "request": {
+                                    "0": "GET \/ HTTP\/1.1",
+                                    "1": "Host: www.secureserver.net",
+                                    "2": "Connection: keep-alive",
+                                    "3": "Accept: text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/webp,*\/*;q=0.8",
+                                    "4": "Upgrade-Insecure-Requests: 1",
+                                    "5": "User-Agent: Mozilla\/5.0 (Windows NT 6.1) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/48.0.2564.116 Safari\/537.36",
+                                    "6": "Accept-Encoding: gzip, deflate, sdch",
+                                    "7": "Accept-Language: en-US,en;q=0.8"
+                                },
+                                "response": {
+                                    "0": "HTTP\/1.1 302 Found",
+                                    "1": "Cache-Control: private",
+                                    "2": "Content-Length: 160",
+                                    "3": "Location: http:\/\/www.secureserver.net\/default404.aspx",
+                                    "4": "Server: Microsoft-IIS\/7.0",
+                                    "5": "Set-Cookie: market=en-US; domain=godaddy.com; expires=Wed, 22-Feb-2017 02:12:35 GMT; path=\/",
+                                    "6": "P3P: policyref=\"\/w3c\/p3p.xml\", CP=\"COM CNT DEM FIN GOV INT NAV ONL PHY PRE PUR STA UNI IDC CAO OTI DSP COR CUR OUR IND\"",
+                                    "7": "X-Powered-By: ARR\/2.5",
+                                    "8": "X-Powered-By: ASP.NET",
+                                    "9": "P3P: policyref=\"\/w3c\/p3p.xml\", CP=\"COM CNT DEM FIN GOV INT NAV ONL PHY PRE PUR STA UNI IDC CAO OTI DSP COR CUR i OUR IND\"",
+                                    "10": "Date: Mon, 22 Feb 2016 02:12:34 GMT"
+                                }
+                            },
+                            "index": 0,
+                            "number": 1
+                        },
+                        "1": {
+                            "ip_addr": "208.109.4.222",
+                            "method": "GET",
+                            "host": "www.secureserver.net",
+                            "url": "\/default404.aspx",
+                            "responseCode": "404",
+                            "load_ms": "113",
+                            "ttfb_ms": "113",
+                            "load_start": "284",
+                            "bytesOut": "386",
+                            "bytesIn": "1435",
+                            "objectSize": "824",
+                            "cacheControl": "private",
+                            "contentType": "text\/html",
+                            "type": "3",
+                            "socket": "40",
+                            "score_cache": "0",
+                            "score_cdn": "-1",
+                            "score_gzip": "-1",
+                            "score_cookies": "-1",
+                            "score_keep-alive": "-1",
+                            "score_minify": "-1",
+                            "score_combine": "-1",
+                            "score_compress": "-1",
+                            "score_etags": "-1",
+                            "is_secure": "0",
+                            "dns_ms": "-1",
+                            "connect_ms": "-1",
+                            "ssl_ms": "-1",
+                            "gzip_total": "0",
+                            "gzip_save": "0",
+                            "minify_total": "0",
+                            "minify_save": "0",
+                            "image_total": "0",
+                            "image_save": "0",
+                            "cache_time": "0",
+                            "dns_start": "0",
+                            "dns_end": "0",
+                            "connect_start": "0",
+                            "connect_end": "0",
+                            "ssl_start": "0",
+                            "ssl_end": "0",
+                            "server_count": "1",
+                            "server_rtt": "93",
+                            "client_port": "50437",
+                            "jpeg_scan_count": "0",
+                            "request_id": "2",
+                            "full_url": "http:\/\/www.secureserver.net\/default404.aspx",
+                            "score_progressive_jpeg": -1,
+                            "load_end": 397,
+                            "ttfb_start": "284",
+                            "ttfb_end": 397,
+                            "download_start": 397,
+                            "download_end": 397,
+                            "download_ms": 0,
+                            "all_start": "284",
+                            "all_end": 397,
+                            "all_ms": "113",
+                            "headers": {
+                                "request": {
+                                    "0": "GET \/default404.aspx HTTP\/1.1",
+                                    "1": "Host: www.secureserver.net",
+                                    "2": "Connection: keep-alive",
+                                    "3": "Accept: text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/webp,*\/*;q=0.8",
+                                    "4": "Upgrade-Insecure-Requests: 1",
+                                    "5": "User-Agent: Mozilla\/5.0 (Windows NT 6.1) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/48.0.2564.116 Safari\/537.36",
+                                    "6": "Accept-Encoding: gzip, deflate, sdch",
+                                    "7": "Accept-Language: en-US,en;q=0.8"
+                                },
+                                "response": {
+                                    "0": "HTTP\/1.1 404 Not Found",
+                                    "1": "Cache-Control: private",
+                                    "2": "Content-Length: 824",
+                                    "3": "Content-Type: text\/html; charset=utf-8",
+                                    "4": "Server: Microsoft-IIS\/7.0",
+                                    "5": "Set-Cookie: market=en-US; domain=secureserver.net; expires=Wed, 22-Feb-2017 02:12:35 GMT; path=\/",
+                                    "6": "Set-Cookie: gdCassCluster.sePQKXdv2U=2; path=\/",
+                                    "7": "P3P: policyref=\"\/w3c\/p3p.xml\", CP=\"COM CNT DEM FIN GOV INT NAV ONL PHY PRE PUR STA UNI IDC CAO OTI DSP COR CUR OUR IND\"",
+                                    "8": "X-Powered-By: ARR\/2.5",
+                                    "9": "X-Powered-By: ASP.NET",
+                                    "10": "P3P: policyref=\"\/w3c\/p3p.xml\", CP=\"COM CNT DEM FIN GOV INT NAV ONL PHY PRE PUR STA UNI IDC CAO OTI DSP COR CUR i OUR IND\"",
+                                    "11": "Date: Mon, 22 Feb 2016 02:12:34 GMT"
+                                }
+                            },
+                            "index": 1,
+                            "number": 2
+                        }
+                    },
+                    "requestsFull": 2,
+                    "requestsDoc": 0,
+                    "responses_200": 0,
+                    "responses_404": 1,
+                    "responses_other": 0,
+                    "result": 404,
+                    "render": 0,
+                    "fullyLoaded": 397,
+                    "cached": 0,
+                    "docTime": 0,
+                    "domTime": 0,
+                    "score_cache": 0,
+                    "score_cdn": -1,
+                    "score_gzip": -1,
+                    "score_cookies": -1,
+                    "score_keep-alive": -1,
+                    "score_minify": -1,
+                    "score_combine": 100,
+                    "score_compress": -1,
+                    "score_etags": -1,
+                    "gzip_total": 0,
+                    "gzip_savings": 0,
+                    "minify_total": 0,
+                    "minify_savings": 0,
+                    "image_total": 0,
+                    "image_savings": 0,
+                    "optimization_checked": 1,
+                    "aft": 0,
+                    "domElements": 13,
+                    "pageSpeedVersion": "1.9",
+                    "title": "",
+                    "titleTime": 0,
+                    "loadEventStart": 461,
+                    "loadEventEnd": 473,
+                    "domContentLoadedEventStart": 460,
+                    "domContentLoadedEventEnd": 461,
+                    "lastVisualChange": 0,
+                    "browser_name": "Google Chrome",
+                    "browser_version": "48.0.2564.116",
+                    "server_count": 1,
+                    "server_rtt": 93,
+                    "base_page_cdn": "",
+                    "adult_site": 0,
+                    "fixed_viewport": 0,
+                    "score_progressive_jpeg": -1,
+                    "firstPaint": 0,
+                    "docCPUms": 0,
+                    "fullyLoadedCPUms": 109.201,
+                    "docCPUpct": 0,
+                    "fullyLoadedCPUpct": 24,
+                    "isResponsive": -1,
+                    "browser_process_count": 8,
+                    "browser_main_memory_kb": 40240,
+                    "browser_other_private_memory_kb": 61784,
+                    "browser_working_set_kb": 102024,
+                    "date": 1456107152,
+                    "chromeUserTiming": {
+                        "0": {
+                            "name": "fetchStart",
+                            "time": 4
+                        },
+                        "1": {
+                            "name": "redirectStart",
+                            "time": 4
+                        },
+                        "2": {
+                            "name": "redirectEnd",
+                            "time": 275
+                        },
+                        "3": {
+                            "name": "fetchStart",
+                            "time": 275
+                        },
+                        "4": {
+                            "name": "unloadEventStart",
+                            "time": 404
+                        },
+                        "5": {
+                            "name": "unloadEventEnd",
+                            "time": 404
+                        },
+                        "6": {
+                            "name": "domLoading",
+                            "time": 409
+                        },
+                        "7": {
+                            "name": "responseEnd",
+                            "time": 402
+                        },
+                        "8": {
+                            "name": "domInteractive",
+                            "time": 460
+                        },
+                        "9": {
+                            "name": "domContentLoadedEventStart",
+                            "time": 460
+                        },
+                        "10": {
+                            "name": "domContentLoadedEventEnd",
+                            "time": 460
+                        },
+                        "11": {
+                            "name": "domComplete",
+                            "time": 461
+                        },
+                        "12": {
+                            "name": "loadEventStart",
+                            "time": 461
+                        },
+                        "13": {
+                            "name": "loadEventEnd",
+                            "time": 472
+                        },
+                        "14": {
+                            "name": "firstLayout",
+                            "time": 506
+                        },
+                        "15": {
+                            "name": "firstPaint",
+                            "time": 507
+                        },
+                        "16": {
+                            "name": "firstTextPaint",
+                            "time": 507
+                        }
+                    },
+                    "chromeUserTiming.fetchStart": 275,
+                    "chromeUserTiming.redirectStart": 4,
+                    "chromeUserTiming.redirectEnd": 275,
+                    "chromeUserTiming.unloadEventStart": 404,
+                    "chromeUserTiming.unloadEventEnd": 404,
+                    "chromeUserTiming.domLoading": 409,
+                    "chromeUserTiming.responseEnd": 402,
+                    "chromeUserTiming.domInteractive": 460,
+                    "chromeUserTiming.domContentLoadedEventStart": 460,
+                    "chromeUserTiming.domContentLoadedEventEnd": 460,
+                    "chromeUserTiming.domComplete": 461,
+                    "chromeUserTiming.loadEventStart": 461,
+                    "chromeUserTiming.loadEventEnd": 472,
+                    "chromeUserTiming.firstLayout": 506,
+                    "chromeUserTiming.firstPaint": 507,
+                    "chromeUserTiming.firstTextPaint": 507,
+                    "run": 1,
+                    "tester": "VM3-IE9-1-192.168.101.211",
+                    "pages": {
+                        "details": "http:\/\/www.webpagetest.org\/details.php?test=160222_EN_3CA&run=1&cached=0",
+                        "checklist": "http:\/\/www.webpagetest.org\/performance_optimization.php?test=160222_EN_3CA&run=1&cached=0",
+                        "breakdown": "http:\/\/www.webpagetest.org\/breakdown.php?test=160222_EN_3CA&run=1&cached=0",
+                        "domains": "http:\/\/www.webpagetest.org\/domains.php?test=160222_EN_3CA&run=1&cached=0",
+                        "screenShot": "http:\/\/www.webpagetest.org\/screen_shot.php?test=160222_EN_3CA&run=1&cached=0"
+                    },
+                    "thumbnails": {
+                        "waterfall": "http:\/\/www.webpagetest.org\/result\/160222_EN_3CA\/1_waterfall_thumb.png",
+                        "checklist": "http:\/\/www.webpagetest.org\/result\/160222_EN_3CA\/1_optimization_thumb.png",
+                        "screenShot": "http:\/\/www.webpagetest.org\/result\/160222_EN_3CA\/1_screen_thumb.png"
+                    },
+                    "images": {
+                        "waterfall": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/EN\/3CA\/1_waterfall.png",
+                        "connectionView": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/EN\/3CA\/1_connection.png",
+                        "checklist": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/EN\/3CA\/1_optimization.png",
+                        "screenShot": "http:\/\/www.webpagetest.org\/getfile.php?test=160222_EN_3CA&file=1_screen.jpg"
+                    },
+                    "rawData": {
+                        "headers": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/EN\/3CA\/1_report.txt",
+                        "pageData": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/EN\/3CA\/1_IEWPG.txt",
+                        "requestsData": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/EN\/3CA\/1_IEWTR.txt",
+                        "utilization": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/EN\/3CA\/1_progress.csv"
+                    },
+                    "domains": {
+                        "www.secureserver.net": {
+                            "bytes": 2164,
+                            "requests": 2,
+                            "connections": 1
+                        }
+                    },
+                    "breakdown": {
+                        "html": {
+                            "color": {
+                                "0": 130,
+                                "1": 181,
+                                "2": 252
+                            },
+                            "bytes": 1435,
+                            "requests": 1
+                        },
+                        "js": {
+                            "color": {
+                                "0": 254,
+                                "1": 197,
+                                "2": 132
+                            },
+                            "bytes": 0,
+                            "requests": 0
+                        },
+                        "css": {
+                            "color": {
+                                "0": 178,
+                                "1": 234,
+                                "2": 148
+                            },
+                            "bytes": 0,
+                            "requests": 0
+                        },
+                        "image": {
+                            "color": {
+                                "0": 196,
+                                "1": 154,
+                                "2": 232
+                            },
+                            "bytes": 0,
+                            "requests": 0
+                        },
+                        "flash": {
+                            "color": {
+                                "0": 45,
+                                "1": 183,
+                                "2": 193
+                            },
+                            "bytes": 0,
+                            "requests": 0
+                        },
+                        "font": {
+                            "color": {
+                                "0": 255,
+                                "1": 82,
+                                "2": 62
+                            },
+                            "bytes": 0,
+                            "requests": 0
+                        },
+                        "other": {
+                            "color": {
+                                "0": 196,
+                                "1": 196,
+                                "2": 196
+                            },
+                            "bytes": 0,
+                            "requests": 0
+                        }
+                    },
+                    "consoleLog": {
+                        "0": {
+                            "column": 0,
+                            "level": "error",
+                            "line": 0,
+                            "networkRequestId": "2724.5",
+                            "source": "network",
+                            "text": "Failed to load resource: the server responded with a status of 404 (Not Found)",
+                            "timestamp": 1456107153.1342,
+                            "type": "log",
+                            "url": "http:\/\/www.secureserver.net\/default404.aspx"
+                        }
+                    },
+                    "status": {
+                        "0": {
+                            "time": "416",
+                            "message": "Navigation Error:"
+                        }
+                    }
+                }
+            }
+        },
+        "fvonly": true,
+        "successfulFVRuns": 0,
+        "average": {
+            "firstView": {}
+        },
+        "standardDeviation": {
+            "firstView": {}
+        },
+        "median": {
+            "firstView": {
+                "URL": "http:\/\/www.Secureserver.net",
+                "loadTime": 397,
+                "TTFB": 397,
+                "bytesOut": 757,
+                "bytesOutDoc": 757,
+                "bytesIn": 2164,
+                "bytesInDoc": 2164,
+                "connections": 1,
+                "requests": {
+                    "0": {
+                        "ip_addr": "208.109.4.222",
+                        "method": "GET",
+                        "host": "www.secureserver.net",
+                        "url": "\/",
+                        "responseCode": "302",
+                        "load_ms": "106",
+                        "ttfb_ms": "106",
+                        "load_start": "162",
+                        "bytesOut": "371",
+                        "bytesIn": "729",
+                        "objectSize": "160",
+                        "cacheControl": "private",
+                        "type": "3",
+                        "socket": "40",
+                        "score_cache": "0",
+                        "score_cdn": "-1",
+                        "score_gzip": "-1",
+                        "score_cookies": "-1",
+                        "score_keep-alive": "-1",
+                        "score_minify": "-1",
+                        "score_combine": "-1",
+                        "score_compress": "-1",
+                        "score_etags": "-1",
+                        "is_secure": "0",
+                        "dns_ms": "-1",
+                        "connect_ms": 94,
+                        "ssl_ms": "-1",
+                        "gzip_total": "0",
+                        "gzip_save": "0",
+                        "minify_total": "0",
+                        "minify_save": "0",
+                        "image_total": "0",
+                        "image_save": "0",
+                        "cache_time": "0",
+                        "dns_start": "0",
+                        "dns_end": "68",
+                        "connect_start": "68",
+                        "connect_end": "162",
+                        "ssl_start": "0",
+                        "ssl_end": "0",
+                        "server_count": "1",
+                        "server_rtt": "93",
+                        "client_port": "50437",
+                        "jpeg_scan_count": "0",
+                        "priority": "VeryHigh",
+                        "request_id": "1",
+                        "full_url": "http:\/\/www.secureserver.net\/",
+                        "score_progressive_jpeg": -1,
+                        "load_end": 268,
+                        "ttfb_start": "162",
+                        "ttfb_end": 268,
+                        "download_start": 268,
+                        "download_end": 268,
+                        "download_ms": 0,
+                        "all_start": "68",
+                        "all_end": 268,
+                        "all_ms": 200,
+                        "index": 0,
+                        "number": 1
+                    },
+                    "1": {
+                        "ip_addr": "208.109.4.222",
+                        "method": "GET",
+                        "host": "www.secureserver.net",
+                        "url": "\/default404.aspx",
+                        "responseCode": "404",
+                        "load_ms": "113",
+                        "ttfb_ms": "113",
+                        "load_start": "284",
+                        "bytesOut": "386",
+                        "bytesIn": "1435",
+                        "objectSize": "824",
+                        "cacheControl": "private",
+                        "contentType": "text\/html",
+                        "type": "3",
+                        "socket": "40",
+                        "score_cache": "0",
+                        "score_cdn": "-1",
+                        "score_gzip": "-1",
+                        "score_cookies": "-1",
+                        "score_keep-alive": "-1",
+                        "score_minify": "-1",
+                        "score_combine": "-1",
+                        "score_compress": "-1",
+                        "score_etags": "-1",
+                        "is_secure": "0",
+                        "dns_ms": "-1",
+                        "connect_ms": "-1",
+                        "ssl_ms": "-1",
+                        "gzip_total": "0",
+                        "gzip_save": "0",
+                        "minify_total": "0",
+                        "minify_save": "0",
+                        "image_total": "0",
+                        "image_save": "0",
+                        "cache_time": "0",
+                        "dns_start": "0",
+                        "dns_end": "0",
+                        "connect_start": "0",
+                        "connect_end": "0",
+                        "ssl_start": "0",
+                        "ssl_end": "0",
+                        "server_count": "1",
+                        "server_rtt": "93",
+                        "client_port": "50437",
+                        "jpeg_scan_count": "0",
+                        "request_id": "2",
+                        "full_url": "http:\/\/www.secureserver.net\/default404.aspx",
+                        "score_progressive_jpeg": -1,
+                        "load_end": 397,
+                        "ttfb_start": "284",
+                        "ttfb_end": 397,
+                        "download_start": 397,
+                        "download_end": 397,
+                        "download_ms": 0,
+                        "all_start": "284",
+                        "all_end": 397,
+                        "all_ms": "113",
+                        "index": 1,
+                        "number": 2
+                    }
+                },
+                "requestsFull": 2,
+                "requestsDoc": 0,
+                "responses_200": 0,
+                "responses_404": 1,
+                "responses_other": 0,
+                "result": 404,
+                "render": 0,
+                "fullyLoaded": 397,
+                "cached": 0,
+                "docTime": 0,
+                "domTime": 0,
+                "score_cache": 0,
+                "score_cdn": -1,
+                "score_gzip": -1,
+                "score_cookies": -1,
+                "score_keep-alive": -1,
+                "score_minify": -1,
+                "score_combine": 100,
+                "score_compress": -1,
+                "score_etags": -1,
+                "gzip_total": 0,
+                "gzip_savings": 0,
+                "minify_total": 0,
+                "minify_savings": 0,
+                "image_total": 0,
+                "image_savings": 0,
+                "optimization_checked": 1,
+                "aft": 0,
+                "domElements": 13,
+                "pageSpeedVersion": "1.9",
+                "title": "",
+                "titleTime": 0,
+                "loadEventStart": 461,
+                "loadEventEnd": 473,
+                "domContentLoadedEventStart": 460,
+                "domContentLoadedEventEnd": 461,
+                "lastVisualChange": 0,
+                "browser_name": "Google Chrome",
+                "browser_version": "48.0.2564.116",
+                "server_count": 1,
+                "server_rtt": 93,
+                "base_page_cdn": "",
+                "adult_site": 0,
+                "fixed_viewport": 0,
+                "score_progressive_jpeg": -1,
+                "firstPaint": 0,
+                "docCPUms": 0,
+                "fullyLoadedCPUms": 109.201,
+                "docCPUpct": 0,
+                "fullyLoadedCPUpct": 24,
+                "isResponsive": -1,
+                "browser_process_count": 8,
+                "browser_main_memory_kb": 40240,
+                "browser_other_private_memory_kb": 61784,
+                "browser_working_set_kb": 102024,
+                "date": 1456107152,
+                "chromeUserTiming": {
+                    "0": {
+                        "name": "fetchStart",
+                        "time": 4
+                    },
+                    "1": {
+                        "name": "redirectStart",
+                        "time": 4
+                    },
+                    "2": {
+                        "name": "redirectEnd",
+                        "time": 275
+                    },
+                    "3": {
+                        "name": "fetchStart",
+                        "time": 275
+                    },
+                    "4": {
+                        "name": "unloadEventStart",
+                        "time": 404
+                    },
+                    "5": {
+                        "name": "unloadEventEnd",
+                        "time": 404
+                    },
+                    "6": {
+                        "name": "domLoading",
+                        "time": 409
+                    },
+                    "7": {
+                        "name": "responseEnd",
+                        "time": 402
+                    },
+                    "8": {
+                        "name": "domInteractive",
+                        "time": 460
+                    },
+                    "9": {
+                        "name": "domContentLoadedEventStart",
+                        "time": 460
+                    },
+                    "10": {
+                        "name": "domContentLoadedEventEnd",
+                        "time": 460
+                    },
+                    "11": {
+                        "name": "domComplete",
+                        "time": 461
+                    },
+                    "12": {
+                        "name": "loadEventStart",
+                        "time": 461
+                    },
+                    "13": {
+                        "name": "loadEventEnd",
+                        "time": 472
+                    },
+                    "14": {
+                        "name": "firstLayout",
+                        "time": 506
+                    },
+                    "15": {
+                        "name": "firstPaint",
+                        "time": 507
+                    },
+                    "16": {
+                        "name": "firstTextPaint",
+                        "time": 507
+                    }
+                },
+                "chromeUserTiming.fetchStart": 275,
+                "chromeUserTiming.redirectStart": 4,
+                "chromeUserTiming.redirectEnd": 275,
+                "chromeUserTiming.unloadEventStart": 404,
+                "chromeUserTiming.unloadEventEnd": 404,
+                "chromeUserTiming.domLoading": 409,
+                "chromeUserTiming.responseEnd": 402,
+                "chromeUserTiming.domInteractive": 460,
+                "chromeUserTiming.domContentLoadedEventStart": 460,
+                "chromeUserTiming.domContentLoadedEventEnd": 460,
+                "chromeUserTiming.domComplete": 461,
+                "chromeUserTiming.loadEventStart": 461,
+                "chromeUserTiming.loadEventEnd": 472,
+                "chromeUserTiming.firstLayout": 506,
+                "chromeUserTiming.firstPaint": 507,
+                "chromeUserTiming.firstTextPaint": 507,
+                "run": 1,
+                "tester": "VM3-IE9-1-192.168.101.211",
+                "pages": {
+                    "details": "http:\/\/www.webpagetest.org\/details.php?test=160222_EN_3CA&run=1&cached=0",
+                    "checklist": "http:\/\/www.webpagetest.org\/performance_optimization.php?test=160222_EN_3CA&run=1&cached=0",
+                    "breakdown": "http:\/\/www.webpagetest.org\/breakdown.php?test=160222_EN_3CA&run=1&cached=0",
+                    "domains": "http:\/\/www.webpagetest.org\/domains.php?test=160222_EN_3CA&run=1&cached=0",
+                    "screenShot": "http:\/\/www.webpagetest.org\/screen_shot.php?test=160222_EN_3CA&run=1&cached=0"
+                },
+                "thumbnails": {
+                    "waterfall": "http:\/\/www.webpagetest.org\/result\/160222_EN_3CA\/1_waterfall_thumb.png",
+                    "checklist": "http:\/\/www.webpagetest.org\/result\/160222_EN_3CA\/1_optimization_thumb.png",
+                    "screenShot": "http:\/\/www.webpagetest.org\/result\/160222_EN_3CA\/1_screen_thumb.png"
+                },
+                "images": {
+                    "waterfall": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/EN\/3CA\/1_waterfall.png",
+                    "connectionView": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/EN\/3CA\/1_connection.png",
+                    "checklist": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/EN\/3CA\/1_optimization.png",
+                    "screenShot": "http:\/\/www.webpagetest.org\/getfile.php?test=160222_EN_3CA&file=1_screen.jpg"
+                },
+                "rawData": {
+                    "headers": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/EN\/3CA\/1_report.txt",
+                    "pageData": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/EN\/3CA\/1_IEWPG.txt",
+                    "requestsData": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/EN\/3CA\/1_IEWTR.txt",
+                    "utilization": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/EN\/3CA\/1_progress.csv"
+                },
+                "domains": {
+                    "www.secureserver.net": {
+                        "bytes": 2164,
+                        "requests": 2,
+                        "connections": 1
+                    }
+                },
+                "breakdown": {
+                    "html": {
+                        "color": {
+                            "0": 130,
+                            "1": 181,
+                            "2": 252
+                        },
+                        "bytes": 1435,
+                        "requests": 1
+                    },
+                    "js": {
+                        "color": {
+                            "0": 254,
+                            "1": 197,
+                            "2": 132
+                        },
+                        "bytes": 0,
+                        "requests": 0
+                    },
+                    "css": {
+                        "color": {
+                            "0": 178,
+                            "1": 234,
+                            "2": 148
+                        },
+                        "bytes": 0,
+                        "requests": 0
+                    },
+                    "image": {
+                        "color": {
+                            "0": 196,
+                            "1": 154,
+                            "2": 232
+                        },
+                        "bytes": 0,
+                        "requests": 0
+                    },
+                    "flash": {
+                        "color": {
+                            "0": 45,
+                            "1": 183,
+                            "2": 193
+                        },
+                        "bytes": 0,
+                        "requests": 0
+                    },
+                    "font": {
+                        "color": {
+                            "0": 255,
+                            "1": 82,
+                            "2": 62
+                        },
+                        "bytes": 0,
+                        "requests": 0
+                    },
+                    "other": {
+                        "color": {
+                            "0": 196,
+                            "1": 196,
+                            "2": 196
+                        },
+                        "bytes": 0,
+                        "requests": 0
+                    }
+                },
+                "consoleLog": {
+                    "0": {
+                        "column": 0,
+                        "level": "error",
+                        "line": 0,
+                        "networkRequestId": "2724.5",
+                        "source": "network",
+                        "text": "Failed to load resource: the server responded with a status of 404 (Not Found)",
+                        "timestamp": 1456107153.1342,
+                        "type": "log",
+                        "url": "http:\/\/www.secureserver.net\/default404.aspx"
+                    }
+                },
+                "status": {
+                    "0": {
+                        "time": "416",
+                        "message": "Navigation Error:"
+                    }
+                }
+            }
+        },
+        "rank": 211
+    },
+    "statusCode": 200,
+    "statusText": "Test Complete"
+}

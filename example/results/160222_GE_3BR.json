@@ -1,0 +1,508 @@
+{
+    "data": {
+        "id": "160222_GE_3BR",
+        "url": "http:\/\/www.Detail.tmall.com",
+        "summary": "http:\/\/www.webpagetest.org\/results.php?test=160222_GE_3BR",
+        "testUrl": "http:\/\/www.Detail.tmall.com",
+        "location": "Dulles:Chrome:Chrome",
+        "from": "Dulles, VA - Chrome - <b>Chrome<\/b> - <b>Cable<\/b>",
+        "connectivity": "Cable",
+        "bwDown": 5000,
+        "bwUp": 1000,
+        "latency": 28,
+        "plr": "0",
+        "mobile": 0,
+        "completed": 1456107147,
+        "tester": "VM7-IE11-13-192.168.101.193",
+        "testerDNS": "192.168.101.1,192.168.0.1",
+        "runs": {
+            "1": {
+                "firstView": {
+                    "URL": "http:\/\/www.Detail.tmall.com",
+                    "loadTime": 195,
+                    "TTFB": 0,
+                    "bytesOut": 0,
+                    "bytesOutDoc": 0,
+                    "bytesIn": 0,
+                    "bytesInDoc": 0,
+                    "connections": 0,
+                    "requests": {},
+                    "requestsFull": 0,
+                    "requestsDoc": 0,
+                    "responses_200": 0,
+                    "responses_404": 0,
+                    "responses_other": 0,
+                    "result": 12007,
+                    "render": 0,
+                    "fullyLoaded": 195,
+                    "cached": 0,
+                    "docTime": 0,
+                    "domTime": 0,
+                    "score_cache": -1,
+                    "score_cdn": -1,
+                    "score_gzip": -1,
+                    "score_cookies": -1,
+                    "score_keep-alive": -1,
+                    "score_minify": -1,
+                    "score_combine": 100,
+                    "score_compress": -1,
+                    "score_etags": -1,
+                    "gzip_total": 0,
+                    "gzip_savings": 0,
+                    "minify_total": 0,
+                    "minify_savings": 0,
+                    "image_total": 0,
+                    "image_savings": 0,
+                    "optimization_checked": 1,
+                    "aft": 0,
+                    "domElements": 2,
+                    "pageSpeedVersion": "1.9",
+                    "title": "",
+                    "titleTime": 0,
+                    "loadEventStart": 378,
+                    "loadEventEnd": 378,
+                    "domContentLoadedEventStart": 378,
+                    "domContentLoadedEventEnd": 378,
+                    "lastVisualChange": 0,
+                    "browser_name": "Google Chrome",
+                    "browser_version": "48.0.2564.116",
+                    "server_count": 0,
+                    "server_rtt": 0,
+                    "base_page_cdn": "",
+                    "adult_site": 0,
+                    "fixed_viewport": -1,
+                    "score_progressive_jpeg": -1,
+                    "firstPaint": 0,
+                    "docCPUms": 0,
+                    "fullyLoadedCPUms": 109.201,
+                    "docCPUpct": 0,
+                    "fullyLoadedCPUpct": 47,
+                    "isResponsive": -1,
+                    "browser_process_count": 8,
+                    "browser_main_memory_kb": 41052,
+                    "browser_other_private_memory_kb": 63116,
+                    "browser_working_set_kb": 104168,
+                    "date": 1456107158,
+                    "chromeUserTiming": {
+                        "0": {
+                            "name": "fetchStart",
+                            "time": 5
+                        },
+                        "1": {
+                            "name": "fetchStart",
+                            "time": 176
+                        },
+                        "2": {
+                            "name": "responseEnd",
+                            "time": 178
+                        },
+                        "3": {
+                            "name": "unloadEventStart",
+                            "time": 180
+                        },
+                        "4": {
+                            "name": "unloadEventEnd",
+                            "time": 180
+                        },
+                        "5": {
+                            "name": "domLoading",
+                            "time": 192
+                        },
+                        "6": {
+                            "name": "domInteractive",
+                            "time": 377
+                        },
+                        "7": {
+                            "name": "domContentLoadedEventStart",
+                            "time": 377
+                        },
+                        "8": {
+                            "name": "domContentLoadedEventEnd",
+                            "time": 377
+                        },
+                        "9": {
+                            "name": "domComplete",
+                            "time": 378
+                        },
+                        "10": {
+                            "name": "loadEventStart",
+                            "time": 378
+                        },
+                        "11": {
+                            "name": "loadEventEnd",
+                            "time": 378
+                        },
+                        "12": {
+                            "name": "firstLayout",
+                            "time": 378
+                        },
+                        "13": {
+                            "name": "firstPaint",
+                            "time": 412
+                        }
+                    },
+                    "chromeUserTiming.fetchStart": 176,
+                    "chromeUserTiming.responseEnd": 178,
+                    "chromeUserTiming.unloadEventStart": 180,
+                    "chromeUserTiming.unloadEventEnd": 180,
+                    "chromeUserTiming.domLoading": 192,
+                    "chromeUserTiming.domInteractive": 377,
+                    "chromeUserTiming.domContentLoadedEventStart": 377,
+                    "chromeUserTiming.domContentLoadedEventEnd": 377,
+                    "chromeUserTiming.domComplete": 378,
+                    "chromeUserTiming.loadEventStart": 378,
+                    "chromeUserTiming.loadEventEnd": 378,
+                    "chromeUserTiming.firstLayout": 378,
+                    "chromeUserTiming.firstPaint": 412,
+                    "run": 1,
+                    "tester": "VM7-IE11-13-192.168.101.193",
+                    "pages": {
+                        "details": "http:\/\/www.webpagetest.org\/details.php?test=160222_GE_3BR&run=1&cached=0",
+                        "checklist": "http:\/\/www.webpagetest.org\/performance_optimization.php?test=160222_GE_3BR&run=1&cached=0",
+                        "breakdown": "http:\/\/www.webpagetest.org\/breakdown.php?test=160222_GE_3BR&run=1&cached=0",
+                        "domains": "http:\/\/www.webpagetest.org\/domains.php?test=160222_GE_3BR&run=1&cached=0",
+                        "screenShot": "http:\/\/www.webpagetest.org\/screen_shot.php?test=160222_GE_3BR&run=1&cached=0"
+                    },
+                    "thumbnails": {
+                        "waterfall": "http:\/\/www.webpagetest.org\/result\/160222_GE_3BR\/1_waterfall_thumb.png",
+                        "checklist": "http:\/\/www.webpagetest.org\/result\/160222_GE_3BR\/1_optimization_thumb.png",
+                        "screenShot": "http:\/\/www.webpagetest.org\/result\/160222_GE_3BR\/1_screen_thumb.png"
+                    },
+                    "images": {
+                        "waterfall": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/GE\/3BR\/1_waterfall.png",
+                        "connectionView": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/GE\/3BR\/1_connection.png",
+                        "checklist": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/GE\/3BR\/1_optimization.png",
+                        "screenShot": "http:\/\/www.webpagetest.org\/getfile.php?test=160222_GE_3BR&file=1_screen.jpg"
+                    },
+                    "rawData": {
+                        "headers": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/GE\/3BR\/1_report.txt",
+                        "pageData": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/GE\/3BR\/1_IEWPG.txt",
+                        "requestsData": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/GE\/3BR\/1_IEWTR.txt",
+                        "utilization": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/GE\/3BR\/1_progress.csv"
+                    },
+                    "domains": {},
+                    "breakdown": {
+                        "html": {
+                            "color": {
+                                "0": 130,
+                                "1": 181,
+                                "2": 252
+                            },
+                            "bytes": 0,
+                            "requests": 0
+                        },
+                        "js": {
+                            "color": {
+                                "0": 254,
+                                "1": 197,
+                                "2": 132
+                            },
+                            "bytes": 0,
+                            "requests": 0
+                        },
+                        "css": {
+                            "color": {
+                                "0": 178,
+                                "1": 234,
+                                "2": 148
+                            },
+                            "bytes": 0,
+                            "requests": 0
+                        },
+                        "image": {
+                            "color": {
+                                "0": 196,
+                                "1": 154,
+                                "2": 232
+                            },
+                            "bytes": 0,
+                            "requests": 0
+                        },
+                        "flash": {
+                            "color": {
+                                "0": 45,
+                                "1": 183,
+                                "2": 193
+                            },
+                            "bytes": 0,
+                            "requests": 0
+                        },
+                        "font": {
+                            "color": {
+                                "0": 255,
+                                "1": 82,
+                                "2": 62
+                            },
+                            "bytes": 0,
+                            "requests": 0
+                        },
+                        "other": {
+                            "color": {
+                                "0": 196,
+                                "1": 196,
+                                "2": 196
+                            },
+                            "bytes": 0,
+                            "requests": 0
+                        }
+                    },
+                    "status": {
+                        "0": {
+                            "time": "189",
+                            "message": "Navigation Error: net::ERR_NAME_NOT_RESOLVED"
+                        }
+                    }
+                }
+            }
+        },
+        "fvonly": true,
+        "successfulFVRuns": 0,
+        "average": {
+            "firstView": {}
+        },
+        "standardDeviation": {
+            "firstView": {}
+        },
+        "median": {
+            "firstView": {
+                "URL": "http:\/\/www.Detail.tmall.com",
+                "loadTime": 195,
+                "TTFB": 0,
+                "bytesOut": 0,
+                "bytesOutDoc": 0,
+                "bytesIn": 0,
+                "bytesInDoc": 0,
+                "connections": 0,
+                "requests": {},
+                "requestsFull": 0,
+                "requestsDoc": 0,
+                "responses_200": 0,
+                "responses_404": 0,
+                "responses_other": 0,
+                "result": 12007,
+                "render": 0,
+                "fullyLoaded": 195,
+                "cached": 0,
+                "docTime": 0,
+                "domTime": 0,
+                "score_cache": -1,
+                "score_cdn": -1,
+                "score_gzip": -1,
+                "score_cookies": -1,
+                "score_keep-alive": -1,
+                "score_minify": -1,
+                "score_combine": 100,
+                "score_compress": -1,
+                "score_etags": -1,
+                "gzip_total": 0,
+                "gzip_savings": 0,
+                "minify_total": 0,
+                "minify_savings": 0,
+                "image_total": 0,
+                "image_savings": 0,
+                "optimization_checked": 1,
+                "aft": 0,
+                "domElements": 2,
+                "pageSpeedVersion": "1.9",
+                "title": "",
+                "titleTime": 0,
+                "loadEventStart": 378,
+                "loadEventEnd": 378,
+                "domContentLoadedEventStart": 378,
+                "domContentLoadedEventEnd": 378,
+                "lastVisualChange": 0,
+                "browser_name": "Google Chrome",
+                "browser_version": "48.0.2564.116",
+                "server_count": 0,
+                "server_rtt": 0,
+                "base_page_cdn": "",
+                "adult_site": 0,
+                "fixed_viewport": -1,
+                "score_progressive_jpeg": -1,
+                "firstPaint": 0,
+                "docCPUms": 0,
+                "fullyLoadedCPUms": 109.201,
+                "docCPUpct": 0,
+                "fullyLoadedCPUpct": 47,
+                "isResponsive": -1,
+                "browser_process_count": 8,
+                "browser_main_memory_kb": 41052,
+                "browser_other_private_memory_kb": 63116,
+                "browser_working_set_kb": 104168,
+                "date": 1456107158,
+                "chromeUserTiming": {
+                    "0": {
+                        "name": "fetchStart",
+                        "time": 5
+                    },
+                    "1": {
+                        "name": "fetchStart",
+                        "time": 176
+                    },
+                    "2": {
+                        "name": "responseEnd",
+                        "time": 178
+                    },
+                    "3": {
+                        "name": "unloadEventStart",
+                        "time": 180
+                    },
+                    "4": {
+                        "name": "unloadEventEnd",
+                        "time": 180
+                    },
+                    "5": {
+                        "name": "domLoading",
+                        "time": 192
+                    },
+                    "6": {
+                        "name": "domInteractive",
+                        "time": 377
+                    },
+                    "7": {
+                        "name": "domContentLoadedEventStart",
+                        "time": 377
+                    },
+                    "8": {
+                        "name": "domContentLoadedEventEnd",
+                        "time": 377
+                    },
+                    "9": {
+                        "name": "domComplete",
+                        "time": 378
+                    },
+                    "10": {
+                        "name": "loadEventStart",
+                        "time": 378
+                    },
+                    "11": {
+                        "name": "loadEventEnd",
+                        "time": 378
+                    },
+                    "12": {
+                        "name": "firstLayout",
+                        "time": 378
+                    },
+                    "13": {
+                        "name": "firstPaint",
+                        "time": 412
+                    }
+                },
+                "chromeUserTiming.fetchStart": 176,
+                "chromeUserTiming.responseEnd": 178,
+                "chromeUserTiming.unloadEventStart": 180,
+                "chromeUserTiming.unloadEventEnd": 180,
+                "chromeUserTiming.domLoading": 192,
+                "chromeUserTiming.domInteractive": 377,
+                "chromeUserTiming.domContentLoadedEventStart": 377,
+                "chromeUserTiming.domContentLoadedEventEnd": 377,
+                "chromeUserTiming.domComplete": 378,
+                "chromeUserTiming.loadEventStart": 378,
+                "chromeUserTiming.loadEventEnd": 378,
+                "chromeUserTiming.firstLayout": 378,
+                "chromeUserTiming.firstPaint": 412,
+                "run": 1,
+                "tester": "VM7-IE11-13-192.168.101.193",
+                "pages": {
+                    "details": "http:\/\/www.webpagetest.org\/details.php?test=160222_GE_3BR&run=1&cached=0",
+                    "checklist": "http:\/\/www.webpagetest.org\/performance_optimization.php?test=160222_GE_3BR&run=1&cached=0",
+                    "breakdown": "http:\/\/www.webpagetest.org\/breakdown.php?test=160222_GE_3BR&run=1&cached=0",
+                    "domains": "http:\/\/www.webpagetest.org\/domains.php?test=160222_GE_3BR&run=1&cached=0",
+                    "screenShot": "http:\/\/www.webpagetest.org\/screen_shot.php?test=160222_GE_3BR&run=1&cached=0"
+                },
+                "thumbnails": {
+                    "waterfall": "http:\/\/www.webpagetest.org\/result\/160222_GE_3BR\/1_waterfall_thumb.png",
+                    "checklist": "http:\/\/www.webpagetest.org\/result\/160222_GE_3BR\/1_optimization_thumb.png",
+                    "screenShot": "http:\/\/www.webpagetest.org\/result\/160222_GE_3BR\/1_screen_thumb.png"
+                },
+                "images": {
+                    "waterfall": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/GE\/3BR\/1_waterfall.png",
+                    "connectionView": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/GE\/3BR\/1_connection.png",
+                    "checklist": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/GE\/3BR\/1_optimization.png",
+                    "screenShot": "http:\/\/www.webpagetest.org\/getfile.php?test=160222_GE_3BR&file=1_screen.jpg"
+                },
+                "rawData": {
+                    "headers": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/GE\/3BR\/1_report.txt",
+                    "pageData": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/GE\/3BR\/1_IEWPG.txt",
+                    "requestsData": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/GE\/3BR\/1_IEWTR.txt",
+                    "utilization": "http:\/\/www.webpagetest.org\/results\/16\/02\/22\/GE\/3BR\/1_progress.csv"
+                },
+                "domains": {},
+                "breakdown": {
+                    "html": {
+                        "color": {
+                            "0": 130,
+                            "1": 181,
+                            "2": 252
+                        },
+                        "bytes": 0,
+                        "requests": 0
+                    },
+                    "js": {
+                        "color": {
+                            "0": 254,
+                            "1": 197,
+                            "2": 132
+                        },
+                        "bytes": 0,
+                        "requests": 0
+                    },
+                    "css": {
+                        "color": {
+                            "0": 178,
+                            "1": 234,
+                            "2": 148
+                        },
+                        "bytes": 0,
+                        "requests": 0
+                    },
+                    "image": {
+                        "color": {
+                            "0": 196,
+                            "1": 154,
+                            "2": 232
+                        },
+                        "bytes": 0,
+                        "requests": 0
+                    },
+                    "flash": {
+                        "color": {
+                            "0": 45,
+                            "1": 183,
+                            "2": 193
+                        },
+                        "bytes": 0,
+                        "requests": 0
+                    },
+                    "font": {
+                        "color": {
+                            "0": 255,
+                            "1": 82,
+                            "2": 62
+                        },
+                        "bytes": 0,
+                        "requests": 0
+                    },
+                    "other": {
+                        "color": {
+                            "0": 196,
+                            "1": 196,
+                            "2": 196
+                        },
+                        "bytes": 0,
+                        "requests": 0
+                    }
+                },
+                "status": {
+                    "0": {
+                        "time": "189",
+                        "message": "Navigation Error: net::ERR_NAME_NOT_RESOLVED"
+                    }
+                }
+            }
+        },
+        "rank": 193
+    },
+    "statusCode": 200,
+    "statusText": "Test Complete"
+}
